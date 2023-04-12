@@ -24,7 +24,7 @@ void frontsheet(void)
 	glClearColor(0, 0, 0, 1);
 	glClear(GL_COLOR_BUFFER_BIT);
 	glColor3f(1.0, 1.0, 0.0);
-	Write(-0.50, 0.9, 1, 0.0007, (char*)"SJB Institute Of Technology");
+	Write(-0.50, 0.9, 1, 0.0007, (char*)"RNS Institute Of Technology");
 	Write(-0.55, 0.8, 1, 0.0006, (char*)"    Department of CSE");
 	glColor3f(1.0, 0.0, 0.0);
 	Write(-0.45, 0.6, 0.0, 0.0007, (char*) " 2D Helicopter Game");
@@ -33,8 +33,7 @@ void frontsheet(void)
 	glColor3f(1, 1, 0.0);
 	Write(-1.0, 0.1, 0.0, 0.0007, (char*)" Submitted BY:");
 	glColor3f(1.0, 1.0, 1.0);
-	Write(-1.0, -0.03, 0.0, 0.0006, (char*) "1. Shubham Kumar: 1JB16CS154");
-	Write(-1.0, -0.13, 0.0, 0.0006, (char*) "2. Shubham Kumar: 1JB16CS155");
+	Write(-1.0, -0.03, 0.0, 0.0006, (char*) "1. VINAY D:);
 	glColor3f(1, 1, 0.0);
 	Write(-1.0, -0.4, 0.0, 0.0007, (char*) " Under the guidance of: ");
 	glColor3f(1.0, 1.0, 1.0);
